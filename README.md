@@ -1,4 +1,4 @@
-### Developer of automatic systems
+### Developer of automated systems and scripts
 
 - 💻 Python, JS, Node.js, HTML
 - 💾 MySQL, MariaDB, BerkeleyDB
