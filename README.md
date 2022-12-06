@@ -1,4 +1,8 @@
-### Hi there 👋
+### Developer of automatic systems
+
+💻 Python, JS, Node.js, HTML
+💾 MySQL, MariaDB, BerkeleyDB
+☁ AWS, Azure, Google Cloud
 
 <!--
 **BOT-TI/BOT-TI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
