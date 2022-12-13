@@ -1,7 +1,5 @@
-### Developer of automated systems and scripts
-
-- 💻 Python, JS, Node.js, HTML
-- 💾 MySQL, MariaDB, BerkeleyDB
+- 💻 Python
+- 💾 MySQL
 - ☁ AWS, Azure, Google Cloud
 
 <!--
