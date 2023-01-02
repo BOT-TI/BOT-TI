@@ -1,4 +1,4 @@
-- 💻 Python
+- 💻 Python, HTML, CSS, NODE.JS
 - 💾 MySQL
 - ☁ AWS, Azure, Google Cloud
 
