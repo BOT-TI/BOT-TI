@@ -1,1 +1,1 @@
-![Visits](https://img.shields.io/badge/Visits-1480-blue)
+![Visits](https://img.shields.io/badge/Visits-1481-blue)
