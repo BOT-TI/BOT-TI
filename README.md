@@ -23,9 +23,3 @@ I build real-time systems, bots, and web apps.
 - **https://t.me/Viggen_Scraper_bot**  
   Solana wallet scraper & activity monitor  
   *(Python)*
-
-## I've also done
-
-- **Pump.fun real-time token monitor (trading bot experiment)**  
-  Real-time Solana on-chain monitoring system that reconstructs trades from program logs, tracks holders, volume, and price action, and detects early momentum tokens. Sends enriched Telegram alerts with metadata and analytics links.  
-  *(Python)*
