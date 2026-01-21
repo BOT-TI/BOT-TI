@@ -2,10 +2,6 @@
 
 I build real-time systems, bots, and web apps.
 
-I focus on:
-- Low-latency systems
-- Practical tools people actually use
-
 ## Recent Work
 
 - **https://workless.online**  
