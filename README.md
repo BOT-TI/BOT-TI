@@ -14,11 +14,11 @@ I build real-time systems, bots, and web apps.
 
 - **https://t.me/pumpfunbondingtracker**  
   Real-time Pump.fun bonding curve migration tracker  
-  *(Python, WebSockets)*
+  *(Python)*
 
 - **https://t.me/letsbonkfuntracker**  
   Real-time LetsBonk.fun bonding curve migration tracker 
-  *(Python, WebSockets)*
+  *(Python)*
 
 - **https://t.me/Viggen_Scraper_bot**  
   Solana wallet scraper & activity monitor  
