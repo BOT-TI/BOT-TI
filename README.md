@@ -1,4 +1,4 @@
-![Visits](https://img.shields.io/badge/Visits-17533-blue)
+![Visits](https://img.shields.io/badge/Visits-17534-blue)
 
 I build real-time systems, bots, and web apps.
 
