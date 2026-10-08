@@ -2,4 +2,4 @@
 
 ---
 
-I build real-time systems, bots, and web apps.
+I build
