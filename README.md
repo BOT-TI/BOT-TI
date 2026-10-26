@@ -1,7 +1,3 @@
-![Visits](https://img.shields.io/badge/Visits-21534-blue)
-
----
-
 <p align="center">
 
 ![Visits](https://img.shields.io/badge/PROFILE%20VIEWS-21.5K-2563EB?style=for-the-badge)
